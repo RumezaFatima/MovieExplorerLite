@@ -19,7 +19,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone repo link
+   git clone https://github.com/RumezaFatima/MovieExplorerLite.git
    cd movie-explorer-lite
    ```
 
